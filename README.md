@@ -1,6 +1,6 @@
 # Frontend Mentor - Loopstudios landing page
 
-![Design preview for the Loopstudios landing page coding challenge](./assets/shared/desktop-preview.jpg)
+![Design preview for the Loopstudios landing page coding challenge](./src/assets/shared/desktop-preview.jpg)
 
 ## Table of contents
 
@@ -28,7 +28,7 @@ Hello! This is my solution to [Loopstudios landing page - Frontend Mentor](https
 
 ### Links
 
-[LIVE PREVIEW]()
+[LIVE PREVIEW](https://vr-loopstudios-landing-page.netlify.app/)
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
